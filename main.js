@@ -3,7 +3,7 @@ const ovly = {
 		
 		_resultado: null,
 		
-		domain: "api/",
+		domain: "https://api.exchangeratesapi.io/",
 		
 		carregaListaDeMoedas: function(){
 			
